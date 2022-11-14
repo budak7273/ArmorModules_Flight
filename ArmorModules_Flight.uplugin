@@ -1,14 +1,14 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.1.1",
-	"SemVersion": "1.1.1",
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"SemVersion": "2.0.0",
 	"FriendlyName": "PowerSuit Modules: Flight",
-	"Description": "",
+	"Description": "Modules that help you get up into the air and stay there!",
 	"Category": "Modding",
 	"CreatedBy": "Robb#6731, Nog",
-	"CreatedByURL": "https://ficsit.app/mod/BezrE8aswqXLRX",
-	"DocsURL": "https://github.com/budak7273/ArmorModules/",
+	"CreatedByURL": "https://github.com/budak7273/ArmorModules_Flight",
+	"DocsURL": "https://ficsit.app/mod/ArmorModules",
 	"MarketplaceURL": "",
 	"SupportURL": "http://discord.gg/zqp6U7Y7Nu",
 	"CanContainContent": true,
@@ -18,12 +18,12 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.0.0",
+			"SemVersion": "^3.4.0",
 			"Enabled": true
 		},
 		{
 			"Name": "ArmorModules",
-			"SemVersion": "^3.1.1",
+			"SemVersion": "^4.0.0",
 			"Enabled": true
 		}
 	]
