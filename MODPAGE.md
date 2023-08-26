@@ -32,6 +32,13 @@ This is an **addon mod** for [**PowerSuit Modules**](https://ficsit.app/mod/Armo
 
 You can find more info on how to use these modules on the [page for the base mod](https://ficsit.app/mod/ArmorModules).
 
+## Check out the mod in action!
+
+Check out **LK Aice**'s playlists of mod spotlights below, in English or German. Thanks!
+
+[![EnglishVideo](https://img.youtube.com/vi/c6uSjLim3S0/mqdefault.jpg)](https://www.youtube.com/watch?v=c6uSjLim3S0&list=PLnnbB04IDq1ZKpwTgSu6wirTBsyXDC3q8)
+[![GermanVideo](https://img.youtube.com/vi/fcXmEsFONhI/mqdefault.jpg)](https://www.youtube.com/watch?v=fcXmEsFONhI&list=PLnnbB04IDq1ZPSC5l7qqLDBvsIDyyvLlC)
+
 ## Install Instructions
 
 You should probably look at the [Modpack: All PowerSuit Modules](https://ficsit.app/mod/ArmorModules__Modpack_All) mod before deciding to download this one specifically.
